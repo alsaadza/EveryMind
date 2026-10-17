@@ -1,0 +1,10 @@
+build/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+.DS_Store
+gateway/.venv/
+gateway/.env
+gateway/data/
+__pycache__/
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
